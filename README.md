@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://github.com/noahalexandercampbell/noahalexandercampbell/blob/main/header.png?raw=true" width="900" alt="banner" style="max-width:100%" />
+<img src="https://avatars.githubusercontent.com/u/292663496?s=400&u=b8180098f83956e8e66306b252dc1bb0643742a3&v=4" width="900" alt="banner" style="max-width:100%" />
 
 </div>
 
@@ -50,69 +50,3 @@ I study **LLMs**, **agent architectures**, **multimodal learning**, and **AI ali
   <img src="https://skillicons.dev/icons?i=linux,github" />
 </div>
 
----
-
-## GitHub Stats
-
-<div align="center">
-
-<a href="https://github-readme-stats-one-hazel.vercel.app/api?username=noahalexandercampbell&show_icons=true&theme=github_dark&hide_border=true">
-  <img height="180em" src="https://github-readme-stats-one-hazel.vercel.app/api?username=noahalexandercampbell&show_icons=true&theme=github_dark&hide_border=true" />
-</a>
-
-<a href="https://github-readme-stats-one-hazel.vercel.app/api/top-langs/?username=noahalexandercampbell&layout=compact&theme=github_dark&hide_border=true">
-  <img height="180em" src="https://github-readme-stats-one-hazel.vercel.app/api/top-langs/?username=noahalexandercampbell&layout=compact&theme=github_dark&hide_border=true" />
-</a>
-
-</div>
-
-## Activity Graph
-
-<div align="center">
-
-<a href="https://github-readme-activity-graph.vercel.app/graph?username=noahalexandercampbell&theme=github-compact&hide_border=true&bg_color=0d1117">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=noahalexandercampbell&theme=github-compact&hide_border=true&bg_color=0d1117" />
-</a>
-
-</div>
-
----
-
-## Developer Quote
-
-> First, make it run. Then make it clean. Then make it fast.
-
----
-
-## Connect With Me
-
-<div align="center">
-
-<a href="https://github.com/noahalexandercampbell">
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<a href="mailto:noahalexandercampbell@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-<a href="https://linkedin.com/in/noahalexandercampbell">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-</div>
-
----
-
-<!--
-  Profile style notes:
-  - No fake awards, companies, education, or projects
-  - Widgets chosen from verified stable sources
-  - Theme: compact, dark, readable
--->
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Last%20Updated-July%202026-lightgrey" />
-
-</div>
