@@ -2,9 +2,6 @@
 
 <img src="https://github.com/noahalexandercampbell/noahalexandercampbell/blob/main/header.png?raw=true" width="900" alt="banner" style="max-width:100%" />
 
-<!-- Visitor badge -->
-<img src="https://komarev.com/ghpvc/noahalexandercampbell" alt="visitor badge" />
-
 </div>
 
 # Hi, I'm Dr. Noah Alexander Campbell
