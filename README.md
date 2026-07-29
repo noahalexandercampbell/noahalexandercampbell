@@ -34,7 +34,7 @@ I study **LLMs**, **agent architectures**, **multimodal learning**, and **AI ali
   <img src="https://skillicons.dev/icons?i=python,cpp,js,bash,cuda" />
 </div>
 
-**Frameworks & Tools**
+**Frameworks and Tools**
 <div align="center">
   <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,jax,transformers,diffusers,git,docker" />
 </div>
@@ -44,3 +44,9 @@ I study **LLMs**, **agent architectures**, **multimodal learning**, and **AI ali
   <img src="https://skillicons.dev/icons?i=linux,github" />
 </div>
 
+---
+
+## Connect
+
+- GitHub: https://github.com/noahalexandercampbell
+- Repo: [noahalexandercampbell](https://github.com/noahalexandercampbell/noahalexandercampbell)
