@@ -51,3 +51,5 @@ tmp/
 *.tsbuildinfo
 .turbo/
 .vercel/
+.pnpm-store/
+coverage/
