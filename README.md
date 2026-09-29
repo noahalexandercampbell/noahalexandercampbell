@@ -50,3 +50,7 @@ I study **LLMs**, **agent architectures**, **multimodal learning**, and **AI ali
 
 - GitHub: https://github.com/noahalexandercampbell
 - Repo: [noahalexandercampbell](https://github.com/noahalexandercampbell/noahalexandercampbell)
+
+---
+
+*Last updated: September 2026*
